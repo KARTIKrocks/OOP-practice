@@ -1,0 +1,18 @@
+﻿BENIFITS OF OOP
+
+Encapsulation – Reduce complexity + increase reusability
+Abstraction – Reduce complexity + isolate impact of changes
+Inharitance – Eliminate redundant code
+polymorphism – Refactor ugly switch/case statements
+
+
+
+in javascript , we have two categories of types. 
+Value Types(premitive)     : Number , String , Boolean , Symbol , Undefined
+Reference Type             : Object , Function , Array
+
+
+//12
+Primitives are copied by their value
+Objects are copied by their Reference
+

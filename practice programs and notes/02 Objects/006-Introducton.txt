@@ -1,0 +1,8 @@
+Javascript is all about objects.
+we will see the following topics in this section,
+-Creating objects
+-Factories and Constructors
+-Primitives and Reference Types
+-Working with Properties
+-Private Properties
+-Getters/Setters

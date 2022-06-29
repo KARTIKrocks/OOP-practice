@@ -1,0 +1,15 @@
+There are four pillars in OOP.
+1. encapsulation - we group related variables, and functions that operate on them into objects |or| wrapping up data into a single unit.
+2. abstraction   - Abstraction is the concept of object-Oriented Programming that "shows" only essential attributes and "hides" unnecessary information. |or| hide the details and show the essentials
+3. inheritance   - INheritance is a mechanism that allows you to eliminate redundant code
+4. polymorphism  - Polymorphism is a technique that allows you to get rid of long if and else or switch and case statements
+
+before Object Oriented Programming , we had procedural programming language.
+that divide a program into a set of functions.
+
+
+Benifits of OOP
+Encapsulation - Reduce complexity + increase reusability
+Abstraction   - Reduce complexity + isolate impact of changes
+Inheritance   - Eliminate redundant code
+Polymorphism  - Refactor ugly switch/case statements

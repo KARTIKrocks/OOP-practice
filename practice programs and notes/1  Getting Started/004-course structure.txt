@@ -1,0 +1,6 @@
+In this course we will se the following topics
+1. objects
+2. Prototypes
+3. Prototypes Inheritance
+4. ES6 Classes
+5. Modules

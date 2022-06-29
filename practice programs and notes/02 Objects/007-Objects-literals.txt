@@ -1,0 +1,1 @@
+In an object , if there is function ,we call it 'method'

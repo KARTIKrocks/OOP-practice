@@ -1,0 +1,5 @@
+Object orianted programming is a programming pradigm or style of programming that is style around objects rather than function.
+
+c#, java, javascript, Ruby, python and many more programming languages support Object Oriented Programming.
+
+
