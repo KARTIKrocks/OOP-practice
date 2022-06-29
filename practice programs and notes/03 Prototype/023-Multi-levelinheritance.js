@@ -6,6 +6,7 @@ function Circle(radius){
 }
 const circle = new Circle(10);
 
-// Objects created by constructor will have same prototype.
+// Objects created by given constructor will have same prototype.
 
+let myArray = [];
 // myArray derives from arrayBase, and arrayBase derives from objectBase. this is multilevel inheritance.
